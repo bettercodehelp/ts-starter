@@ -4,7 +4,6 @@
 
 - Has All Easyscript.ts Code working
 - TypeScript v4
-- Linting with Prettier
 - VS Code debugger scripts
 - Local development with Nodemon
 
